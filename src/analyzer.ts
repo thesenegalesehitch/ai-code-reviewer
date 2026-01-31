@@ -5,7 +5,7 @@
  * Ce module utilise l'API Google Generative AI pour analyser le code source
  * et générer des rapports de sécurité, de performance et de qualité.
  * 
- * @author Antigravity
+ * @author Alexandre Albert Ndour
  * @version 1.0.0
  * @date Janvier 2026
  */

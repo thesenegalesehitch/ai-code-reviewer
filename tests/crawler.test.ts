@@ -7,7 +7,7 @@
  * - Le filtrage par extension
  * - L'exclusion des fichiers non pertinents
  * 
- * @author Antigravity
+ * @author Alexandre Albert Ndour
  * @version 1.0.0
  * @date Janvier 2026
  */

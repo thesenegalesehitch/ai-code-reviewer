@@ -7,7 +7,7 @@
  * 2. Analysant chaque fichier avec l'IA Gemini
  * 3. Affichant les rapports de sécurité et d'optimisation
  * 
- * @author Antigravity
+ * @author Alexandre Albert Ndour
  * @version 1.0.0
  * @date Janvier 2026
  */

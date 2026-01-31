@@ -5,7 +5,7 @@
  * Ce module scanne récursivement un répertoire pour trouver tous les fichiers
  * correspondant aux extensions spécifiées, en excluant les répertoires système.
  * 
- * @author Antigravity
+ * @author Alexandre Albert Ndour
  * @version 1.0.0
  * @date Janvier 2026
  */
